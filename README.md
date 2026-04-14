@@ -62,4 +62,4 @@ El desarrollo narrativo, la limpieza de datos y las visualizaciones generadas pa
 
 ## Licencia del Repositorio
 
-Este proyecto se distribuye bajo la licencia **CC BY-SA** (Atribución-CompartirIgual).
+Este proyecto se distribuye bajo la licencia **[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es)** (Atribución-CompartirIgual 4.0 Internacional). Eres libre de compartir y adaptar el material siempre que otorgues el crédito correspondiente y distribuyas tus contribuciones bajo la misma licencia.
