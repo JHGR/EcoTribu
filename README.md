@@ -2,9 +2,9 @@
 
 ## Equipo
 
-*   **Jhoana Rojas:** Estudiante de Biología con enfoque en conservación de ecosistemas. Responsable de la investigación, recopilación y validación de datos de biodiversidad y cambio climático.
-*   **Jhonatan Grajales:** Analista de datos con experiencia en visualización y storytelling con datos. Encargado del diseño del tablero, limpieza de datasets y generación de visualizaciones interactivas.
-*   **Julio Treviño:** Desarrollador y comunicador científico. Responsable de la narrativa del proyecto, estructura del repositorio y presentación final ante el jurado.
+*   **Jhoana Rojas:** Licenciada en Ciencias de la Comunicación y estudiante de Pedagogía. Aporta al equipo una visión sólida en narrativa, diseño de mensajes y comunicación de datos complejos hacia audiencias diversas. Responsable de la construcción del storytelling y la presentación del proyecto.
+*   **Jhonatan Grajales:** Ingeniero en Sistemas Computacionales con experiencia en el ciclo completo de proyectos tecnológicos, desde el levantamiento de requerimientos hasta la salida a producción. Encargado de la arquitectura del repositorio, integración de datos y desarrollo de las visualizaciones interactivas.
+*   **Julio Treviño:** Licenciado en Comercio Internacional y estudiante de Sistemas Computacionales. Combina una perspectiva analítica de negocios con habilidades técnicas emergentes. Responsable del análisis de fuentes de datos, validación de información y apoyo en el desarrollo del tablero.
 
 ## ODS Elegidos
 
